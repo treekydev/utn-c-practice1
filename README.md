@@ -1,6 +1,3 @@
-Perfecto 👍 acá tenés el **README.md en crudo**, listo para copiar y pegar:
-
-````markdown
 # Trabajo Práctico N°1 - Programación en C
 
 ## 📚 Descripción
@@ -85,4 +82,3 @@ Reforzar los fundamentos iniciales de programación en C, comprendiendo:
 ## 👨‍🎓 Autor
 
 Trabajo práctico realizado para la facultad como introducción a la programación en C.
-````
